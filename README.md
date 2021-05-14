@@ -1,1 +1,1 @@
-"# react-sample" 
+"Sample react application" 
